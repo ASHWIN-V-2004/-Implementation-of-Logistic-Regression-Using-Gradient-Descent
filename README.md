@@ -9,7 +9,7 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1. Import required libraries and load the dataset from CSV file.
-2.Import required libraries and load the dataset from CSV file. 
+2.Preprocess the data by converting labels and standardizing features. 
 3.Train the Logistic Regression model using Gradient Descent iterations. 
 4. Predict placement status, calculate accuracy, and display the cost graph.
 
